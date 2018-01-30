@@ -1,4 +1,4 @@
 # Restify Upload
 
-Restify app for file upload
+Restify api for file upload
 

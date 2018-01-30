@@ -1,0 +1,18 @@
+{
+  "name": "restify-upload",
+  "version": "1.0.0",
+  "description": "restify upload",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restify"
+  ],
+  "author": "Kingsley Silas",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1",
+    "restify": "^6.3.4"
+  }
+}
